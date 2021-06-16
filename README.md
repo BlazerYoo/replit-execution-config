@@ -4,7 +4,7 @@ Easily select what to run in a Python repl
 ## Use
 You may have multiple Python scripts you want to run.
 
-Each time you create a new `.py` file, you need to create/edit the `.replit` file.
+Each time you create a new `.py` file that you want to execute, you need to create/edit the [`.replit`](https://docs.replit.com/repls/dot-replit) file.
 
 `replit-execution-config` allows you to just create new `.py` and choose which to execute when its time for execution.
 
