@@ -6,7 +6,7 @@ You may have multiple Python scripts you want to run.
 
 Each time you create a new `.py` file, you need to create/edit the `.replit` file.
 
-
+`replit-execution config` allows you to just create new `.py` and choose which to execute when its time for execution.
 
 ## Initialization
 Copy the below script and run it in your repl shell
